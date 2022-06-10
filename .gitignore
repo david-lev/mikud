@@ -1,0 +1,9 @@
+endpoints
+__pycache__
+.idea
+mikud/config.json
+config.json
+dist
+mikud.egg-info
+docs/build
+build
