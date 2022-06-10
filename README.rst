@@ -1,4 +1,4 @@
-.. image:: docs/_static/dark_logo.png
+.. image:: https://github.com/david-lev/mikud/blob/master/docs/_static/dark_logo.png?raw=true
   :width: 95
   :alt: Alternative text
 .. end-logo
@@ -87,6 +87,4 @@ See the `Documentation <https://mikud.readthedocs.io/>`_ for detailed instructio
 ⛔ **Disclaimer**
 ------------------
 
-**This application is intended for educational purposes only. Any use in professional manner or to harm anyone or any organization doesn't relate to me and can be considered as illegal.
-
-.. end-readme
+**This application is intended for educational purposes only. Any use in professional manner or to harm anyone or any organization doesn't relate to me and can be considered as illegal.**
