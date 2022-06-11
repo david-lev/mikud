@@ -1,8 +1,8 @@
 endpoints
 __pycache__
 .idea
-mikud/config.json
-config.json
+mikud/mikud_config.json
+mikud_config.json
 dist
 mikud.egg-info
 docs/build

@@ -10,8 +10,8 @@
     :alt: PyPI Downloads
     :target: https://pypi.org/project/mikud/
 
-.. image:: https://www.codefactor.io/repository/github/david-lev/mikud/badge/main
-   :target: https://www.codefactor.io/repository/github/david-lev/mikud/overview/main
+.. image:: https://www.codefactor.io/repository/github/david-lev/mikud/badge/master
+   :target: https://www.codefactor.io/repository/github/david-lev/mikud/overview/master
    :alt: CodeFactor
 
 .. image:: https://readthedocs.org/projects/mikud/badge/?version=latest&style=flat-square
@@ -23,7 +23,7 @@ ________________________
 
 ☎️ mikud is a Python3 library to search israel's zip codes (mikud) by their addresses.
 
-📖 For a **complete documentation** of available functions, see the `Reference <https://mikud.readthedocs.io/en/latest/reference.html>`_.
+📖 For a **complete documentation** of available functions, see the `Reference <https://mikud.readthedocs.io/en/latest/#id1>`_.
 
 >>️ *This tool based on israelpost website -* `Click here <https://israelpost.co.il/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99%D7%9D/%D7%90%D7%99%D7%AA%D7%95%D7%A8-%D7%9E%D7%99%D7%A7%D7%95%D7%93/>`_.
 

@@ -14,7 +14,7 @@ class Mikud:
                         'Application-Name': 'PostIL',
                         'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 11; SM-A505F Build/RP1A.200720.012)'}
         self.access_token = None
-        self.config_file = config_file if config_file else "config.json"
+        self.config_file = config_file if config_file else "mikud_config.json"
 
     def search_mikud(self, city_name: str = "",
                      city_id: Union[str, int] = "",
