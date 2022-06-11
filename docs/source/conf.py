@@ -84,4 +84,4 @@ ogp_custom_meta_tags = [
     '<meta property="og:description" content="mikud - Search for Israeli zip code numbers" /> '
 ]
 
-# html_extra_path = ["google.html"]
+html_extra_path = ["google898e98a538257a96.html"]
