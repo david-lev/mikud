@@ -52,8 +52,8 @@ ________________________
 
 * Search zip code by address
 * Search address by zip code
-* Search cities
-* Search streets
+* Get cities
+* Get streets
 
 👨‍💻 **Usage**
 ----------------
@@ -65,13 +65,12 @@ ________________________
     mikud_res = mikud.search_mikud(city_name="ירושלים",
                                    street_name="כנפי נשרים",
                                    house_number="20")
-    if search_res['Result']:
-        print(search_res['Result']['zip'])
+    print(mikud_res.zip)
+    #> 9546432
 
-    addr_res = mikud.search_address(zip_code=9546432)
-    if search_res['Result']:
-        print(search_res['Result'])
-
+    addr = mikud.search_address(zip_code=9546432)
+    print(addr.city_name, addr.street_name, addr.house_number)
+    #> ירושלים כנפי נשרים 20
 
 
 💾 **Requirements**

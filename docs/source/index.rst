@@ -16,6 +16,9 @@
 .. currentmodule:: mikud
 .. automethod:: Mikud.search_mikud
 .. automethod:: Mikud.search_address
-.. automethod:: Mikud.search_cities
-.. automethod:: Mikud.search_streets
+.. automethod:: Mikud.get_cities
+.. automethod:: Mikud.get_streets
+.. autoclass:: Address
+.. autoclass:: City
+.. autoclass:: Street
 
