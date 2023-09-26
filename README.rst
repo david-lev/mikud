@@ -41,10 +41,7 @@ ________________________
 - **Install from source:**
 
 .. code-block:: bash
-
-    git clone https://github.com/david-lev/mikud.git
-    cd mikud && python3 setup.py install
-
+    python -m pip install git+https://github.com/david-lev/mikud.git
 .. end-installation
 
 🎉 **Features**
